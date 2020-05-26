@@ -1,0 +1,54 @@
+[
+    {
+        "question": "WOTLK: ¿En Ulduar quién dice - 'La locura os consumirá jajajajaja? (Yogg saron - Auriya - Algon el Observador - Kologarn",
+        "answers": "Yogg saron",
+        "info": "Yogg saron, el último boss de Ulduar, está en su prisión donde hace mucho tiempo fué encerrado por los titanes"
+    },
+    {
+        "question": "WOTLK: ¿En la mazmorra Fortaleza de utgarde qué jefe dice - ¡Me pintaré el rostro con vuestra sangre!? (Skarvald y Dalronn - Ingvar el Desvalijador - Príncipe Keleseth)",
+        "answers": "Ingvar el Desvalijador",
+        "info": "La fuerza bruta de Ingvar es legendaria incluso entre los vrykuls. Se rumorea que una vez venció al rey Ymiron en una pelea. Nadie sabe la verdad, pero los que cuentan esa historia no suelen vivir lo suficiente para repetirla. Ingvar ha prometido al Rey Exánime que empleará toda su brutalidad para defender la fortaleza, y es una promesa que no osa romper."
+    },
+    {
+        "question": "WOTLK: ¿En ICC qué jefe dice - Una nube de gas ordinaria... pero cuidado porque no es una nube de gas ordinaria...? (Caraputrea - Pazachancro - Profesor Putricidio - Lord Tuetano)",
+        "answers": "Profesor Putricidio",
+        "info": "Profesor Putricidio, inspirado en el Profesor Farnsworth de la serie de animación de Futurama, es el último boss de los Talleres de la Peste en Ciudadela de la Corona de Hielo."
+    },
+    {
+        "question": "CATA: ¿Qué jefe de Descenso de Alanegre dice - No necesito ojos para ver a mis enemigos? (Chimaeron - Atramedes - Nefarian - Maloriak)",
+        "answers": "Atramedes",
+        "info": "Atramedes, o el experimento 25463-D, es un intento fallido de conferirle sentidos mejorados a una cría de dragón Negro. El bálsamo tóxico que le aplicaron a la estirpe le dejó ciego, obligándole a confiar en su oído y su olfato para sobrevivir. Sería una historia trágica... si Atramedes no fuera tan malvado."
+    },
+    {
+        "question": "WOTLK: ¿En Bastión Violeta quién dice - ¡Una defensa valiente! ¡Pero esta ciudad debe ser arrasada, yo misma cumpliré los deseos de Malygos!? (Cianigosa - Erekem - Lavanthor - Xevozz)",
+        "answers": "Cianigosa",
+        "info": "Malygos eligió a Cianigosa para ejecutar sus planes debido a su lealtad inquebrantable. Cianigosa no protestó cuando su maestro se entregó a la locura, no flaqueó cuando se adueñó de las líneas Ley de Azeroth y no dudará en erradicar a todos los que lo desafíen."
+    },
+    {
+        "question": "CATA: ¿En la mazmorra Fin de los días qué jefe dice - Hacer lo mismo una y otra vez y esperar diferentes resultados es una LOCURA? (Eco de Jaina - Eco de Baine - Eco de Tyrande - Murozond)",
+        "answers": "Murozond",
+        "info": "En la actualidad vive ajeno al tiempo, pero en el pasado, Murozond fue el gran dragón Aspecto Nozdormu, el Atemporal. Después de que los titanes le permitieran contemplar su propia muerte, los dioses antiguos engañaron al atormentado Nozdormu para que tratase de alterar su mortalidad. Como consecuencia, Nozdormu destrozó los portales del tiempo y creó el Vuelo Infinito... poniendo en peligro el futuro de Azeroth."
+        
+    },
+    {
+        "question:": "WOTLK: En la mazmorra Cámara de los relámpagos ¿qué jefe dice? - Soy el mejor de los hijos de mi padre! (Volkhan - General Bjarngrim - Ionar - loken)",
+        "answers": "General Bjarngrim",
+        "info": "Las tropas de hierro de Loken son legión, y su general, Bjarngrim, las lidera a todas. En la vanguardia de las Cámaras de Relámpagos de Loken, el comandante de hierro se asegura de que todo aquel que allane el dominio de su maestro sea ajusticiado inmediatamente."
+    },
+    {
+        "question": "WOTLK: En la mazmorra el oculus ¿qué jefe dice?¡Tanta insolencia, tanta arrogancia, deben ser castigadas!. (Varos Zancanubes - General Bjargrim - Guardian Ley Eregos - Drakos el Interrogador)",
+        "answers": "Guardian Ley Eregos",
+        "info": "Incluso los héroes temblarán ante Eregos, protector de El Oculus, defensor del conducto de la línea Ley y ejecutor de intrusos. Cumplirá esas tareas con la convicción de la profecía, asegurando el dominio absoluto del Tejehechizos sobre todo lo Arcano."
+    },
+    {
+        "question": "CATA: En la mazmorra Hora del Crepúsculo ¿qué jefe dice? - Miré a los ojos del dragón.. y perdí la esperanza. (Arzobispo Benedictus - Arcurion - Asira Puñal del Alba)",
+        "answers": "Arzobispo Benedictus",
+        "info": "El arzobispo Benedictus es el venerado líder de la iglesia de la Luz Sagrada. Durante años, su sabio liderazgo ha resultado crucial a la hora de guiar a la humanidad en tiempos difíciles. Pero, tras su aparente benevolencia, se oculta una realidad sorprendente: Benedictus ha jurado erradicar por completo la vida en Azeroth con la ayuda de su maestro oscuro... Alamuerte." 
+    },
+    {
+        "question": "¿Cómo se llama el hacha de Grom Grito Infernal? (Agonia de Escarcha - Guja de Azzinoth - Aullavisceras)",
+        "answers": "Aullavisceras",
+        "info": "Grommash 'Grom' Grito Infernal, fundador del Clan Grito de Guerra, último clan orco en libertad tras la Segunda Guerra, fue uno de los más feroces y valientes líderes de la Horda orca que emigró a Azeroth. Fue el primero de su raza en beber la sangre del Señor del Foso Mannoroth el Destructor, ligando así a su gente a la Legión Ardiente."
+    }
+        
+]
