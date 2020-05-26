@@ -1,0 +1,6 @@
+{
+    "giphy": "PON AQUI TU TOKEN DE GIPHY",
+    "YT": "PON AQUI TU TOKEN DE YOUTUBE",
+    "blizzardID" : "PON AQUI TU ID DE BLIZZARD API",    
+	  "blizzardSecret": "PON AQUI TU SECRET DE BLIZZARD"
+}
